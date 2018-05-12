@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40835'
     url: http://www.gutenberg.org/2009/agents/40835
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43495#Around-the-World-in-Seven-Months
 gutenberg_issued: '2013-08-18'
 gutenberg_type: Text
 identifiers:
